@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/maheshp49435563" target="blank"><img align="center" src="/img/2021 Twitter logo - blue.png" alt="maheshp49435563" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahesh parihar" target="blank"><img align="center" src="/img/LI-Logo.png" alt="mahesh parihar" height="30" width="70" /></a>
+<a href="https://www.linkedin.com/in/maheshparihar3482649/" target="blank"><img align="center" src="/img/LI-Logo.png" alt="mahesh parihar" height="30" width="70" /></a>
 <a href="https://www.codechef.com/users/maheshkoko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="maheshkoko" height="30" width="40" /></a>
 </p>
 
