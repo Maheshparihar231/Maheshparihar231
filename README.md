@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/maheshp49435563" target="blank"><img src="https://img.shields.io/twitter/follow/maheshp49435563?logo=twitter&style=for-the-badge" alt="maheshp49435563" /></a> </p>
 
-- 🔭 I’m currently working on **Github**
+- 🔭 I’m currently working on **Flutter App Devlopment**
 
 - 🌱 I’m currently learning **Computer Science**
 
