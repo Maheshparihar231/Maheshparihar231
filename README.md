@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshparihar231&label=Profile%20views&color=0e75b6&style=flat" alt="maheshparihar231" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheshparihar231" alt="maheshparihar231" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/maheshp49435563" target="blank"><img src="https://img.shields.io/twitter/follow/maheshp49435563?logo=twitter&style=for-the-badge" alt="maheshp49435563" /></a> </p>
 
 - 🔭 I’m currently working on **Flutter App Devlopment**
@@ -19,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/maheshp49435563" target="blank"><img align="center" src="/img/2021 Twitter logo - blue.png" alt="maheshp49435563" height="30" width="40" /></a>&ensp;
 <a href="https://www.linkedin.com/in/maheshparihar3482649/" target="blank"><img align="center" src="/img/LI-Logo.png" alt="mahesh parihar" height="30" width="70" /></a>&ensp;
-<a href="https://www.codechef.com/users/maheshkoko" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="maheshkoko" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/maheshkoko" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="maheshkoko" height="60" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,3 +29,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maheshparihar231&" alt="maheshparihar231" /></p>
 
+<h3 align="left">Hactoberfest 2022:</h3>
+
+[![@mahesh231's Holopin board](https://holopin.me/mahesh231)](https://holopin.io/@mahesh231)
