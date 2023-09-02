@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Mobile Application Devlopment**
 
-- 🌱 I’m currently learning **Computer Science**
+- 🌱 I’m currently learning **Full Stack Java Development**
 
 - 👨‍💻 All of my projects are available at [http://github.com/Maheshparihar231](http://github.com/Maheshparihar231)
 
